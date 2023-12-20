@@ -1,0 +1,1032 @@
+[114]  "Organize all the world's information and make it universally accessible and useful"  is
+Answer: purpose statement
+[135]  A 2011 survey conducted by the University of Maryland's School of Business and Network
+Answer: 46 percent
+[62]   A ________ is a firm's plan or recipe for how it creates, delivers, and captures value for its
+Answer: business model
+[120]  A ________ is a group of organizations with similar needs that band together to create a new
+Answer: consortia
+[117]  A ________ is a resource or capability that serves as a source of a firm's competitive
+Answer: core competency
+[50]   A ________ is a single Web page th at typically provides direct sales copy, like “click here to
+Answer: landing page
+[128]  A ________ is the group of founders, key employees, and advisers that move a new venture
+Answer: new venture team
+[139]  A board of directors has three formal responsibilities:
+Answer: appoint the officers of the firm, declare dividends, and oversee the affairs of the corporation
+[139]  A board of directors has three formal responsibilities: appoint the officers of the firm, declare
+Answer: represent the firm in public relations activities
+[139]  A board of directors has three formal responsibilities: appoint the officers of the firm, oversee
+Answer: declare dividends
+[137]  A board of directors is typically made up of both inside and ________ directors.
+Answer: outside
+[136]  A board of directors is typically made up of both:
+Answer: inside and outside directors
+[157]  A brief carefully constructed statement that outlines the merits of a business opportunity is
+Answer: teaser speech
+[64]   A business model is a firm's plan or recipe for how it creates, delivers, and captures value for
+Answer: TRUE
+[122]  A business plan is a firm's plan or diagram for how it competes, uses its resources, struc tures
+Answer: FALSE
+[71]   A business's ________ describes why it exists and what its business model is supposed to
+Answer: mission statement
+[80]   A business's mission or mission statement describes why it exists and what its bu siness
+Answer: TRUE
+[123]  A clearly articulated business model articulates a company's core logic to al l stakeholders,
+Answer: TRUE
+[30]   A common way that gaps in the marketplace are recognized is ________.
+Answer: when people become frustrated because  they can't find a product or service that they need and
+[114]  A company's ________ defines the products and markets on which it will concentrate.
+Answer: product/market scope
+[73]   A company's ________ scope defines the products and markets on which it will concentrate.
+Answer: product/market
+[82]   A company's channels describe how it delivers its product or service to its customers.
+Answer: TRUE
+[80]   A company's product/market scope defines the products and markets on which it will
+Answer: TRUE
+[124]  A company's product/market scope defines the products and markets on which it will
+Answer: TRUE
+[80]   A company's target market is a place within a larger market segment that represent s a
+Answer: TRUE
+[100]  A comparison analysis is a detailed evaluation of a firm's competitors.
+Answer: FALSE
+[104]  A competitive analysis grid is a tool for organizing the information a firm collects about its
+Answer: TRUE
+[51]   A concept statement should be two to three pages long.
+Answer: FALSE
+[124]  A core competency is a resource or capability that serves as a source of a firm's competi tive
+Answer: TRUE
+[76]   A firm's ________ describe(s) the ways in which it makes money.
+Answer: revenue streams
+[113]  A firm's ________ describes why it exists and what its business model is supposed to
+Answer: mission statement
+[121]  A firm's ________ is the limited group of individuals or businesses that it goes after or tries
+Answer: target market
+[72]   A firm's ________ market is a place within a larger market segment that represents a
+Answer: target
+[122]  A firm's business model resides within its own boundaries.
+Answer: FALSE
+[103]  A firm's future competitors are its most important ones.
+Answer: FALSE
+[81]   A firm's revenue streams describe the ways in which it makes money.
+Answer: TRUE
+[125]  A firm's target market is the limited group of individuals or businesses that it goes aft er or
+Answer: TRUE
+[102]  A fragmented industry is one that is characterized by a large number of firms of
+Answer: TRUE
+[119]  A hub and wheel configuration with a local firm at the hub organizing the interdependencies
+Answer: network
+[169]  A lease is a written agreement in which the owner of a piece of property allows an individual
+Answer: TRUE
+[103]  A mature industry is an industry that is experiencing slow increases in demand, numerous
+Answer: TRUE
+[34]   A network entrepreneur is an individua l who identifies his or her business idea ________.
+Answer: through social contacts
+[125]  A network is a hub-and-wheel configuration with a local firm at the hub organizing the
+Answer: TRUE
+[58]   A new venture team is the group of founders, key employees, and advisers that either manage
+Answer: TRUE
+[144]  A new venture team is the group of founders, key employees, and advisers that move a new
+Answer: TRUE
+[125]  A resource chain is the network of all the companies that participate in the production of a
+Answer: FALSE
+[146]  A skills profile is a chart that depicts the most important skills that are needed and where
+Answer: TRUE
+[135]  A skills profile is a chart that depicts the:
+Answer: most important skills that are needed in a business startup and where skills gaps exist
+[34]   A solo entrepreneur is an individual who identified his or her business idea ________. A
+Answer: on their own; through social contacts
+[82]   A strategic alliance is an entity created by two or more firms pooling a portion of their
+Answer: FALSE
+[118]  A supplier is a company that:
+Answer: provides startups with business advice
+[95]   A(n) ________ industry is an industry that is experiencing significant international sales.
+Answer: global
+[93]   A(n) ________ industry is an industry that is experiencing slow or no increase in demand.
+Answer: mature
+[93]   A(n) ________ industry is one that is characterized by a large number of firms of
+Answer: fragmented
+[47]   A(n) ________ involves showing a preliminary description of a product or service idea to
+Answer: concept test
+[134]  A(n) ________ is a chart that depicts the most important skills that are needed in a new
+Answer: skills profile
+[22]   A(n) ________ is a favorable set of circumstances that creates a need for a new product,
+Answer: opportunity
+[24]   A(n) ________ is a favorable set of circumstances that creates the need for a new product,
+Answer: opportunity, idea
+[84]   A(n) ________ is a group of firms producing a similar product or service, such as soft drinks,
+Answer: industry
+[52]   A(n) ________ is a group of firms producing a similar product or service. A firm’s ________ is
+Answer: industry; target market
+[142]  A(n) ________ is a panel of experts who are asked by a firm's managers to provide counsel
+Answer: advisory board
+[43]   A(n) ________ is a physical or digital repository for storing ideas.
+Answer: idea depository
+[164]  A(n) ________ is a written agreement in which the owner of a piece of property allows an
+Answer: warranty
+[161]  A(n) ________ is an institution, such as Credit Suisse First Boston, that acts as an
+Answer: investment bank
+[55]   A(n) ________ team is the group of founders, key employees, and advisers that either
+Answer: new venture
+[48]   A/B split testing, landing pages, p rototyping services, and Web site usability testing are all
+Answer: feasibility analysis
+[159]  According to a source cited in the textbook, venture capitalists anticipate that the percentage
+Answer: 20 percent
+[157]  According to a study cited in the textbook, ________ of private companies meet the criterion
+Answer: 10 percent to 15 percent
+[163]  According to a survey conducted by the National Small Business Association between
+Answer: 22 and 29
+[153]  According to our textbook, the seed money that gets a company off the ground typically
+Answer: governmental agencies
+[35]   According to research in this area, it is more likely that an entrepreneur will get a new
+Answer: w eak-tie
+[90]   According to the example provided in Chapter 5, www.1800contacts.com possesses a
+Answer: Internet domain name
+[94]   According to the textbook, InstyMeds in prescription drug sales, Fresh Healthy Vending in
+Answer: mature
+[94]   According to the textbook, Nucor in steel, JetBlue in airlines, and Cirque du Soleil in
+Answer: declining
+[95]   According to the textbook, PharmaJet, in needleless injection systems, and d'light, in solar-
+Answer: global
+[68]   According to the textbook, Southwest Airlines introduced a new market disruption type of
+Answer: FALSE
+[40]   According to the textbook, a focus group is a gathering of 5 to 10 peop le who are selected
+Answer: of their relationship to the issue being discussed
+[140]  According to the textbook, although a board of directors has formal governance
+Answer: provide guidance and support to the firm's managers
+[153]  According to the textbook, beyond their own funds, the second source of funds for many new
+Answer: friends and family
+[109]  According to the textbook, by studying a product's or service's value chain an organization
+Answer: identify ways to create additional value and assess whether it has the means to do so
+[87]   According to the textbook, how do well-managed firms respond to the five-forces that
+Answer: They ignore the forces.
+[150]  According to the textbook, many entrepreneurs go about the task of raising capital
+Answer: they lack experience in this area and because they don't know much about their choices
+[143]  According to the textbook, most boards of advisers have between:
+Answer: 5 and 15 members
+[22]   According to the textbook, opportunities are ________.
+Answer: tough to spot
+[132]  According to the textbook, prior entrepreneurial experiences:
+Answer: is one of the most consistent predictors of future entrepreneurial performance
+[33]   According to the textbook, research results over time consistently suggest that somewhere
+Answer: 40 and 50
+[130]  According to the textbook, studies show that more than one individual starts ________ of all
+Answer: 50 to 70 percent
+[40]   According to the textbook, the best approach to utilizing a library for entrepreneurship -
+Answer: discuss your general area of interest with a reference librarian
+[97]   According to the textbook, the first step in a competitor analysis is to:
+Answer: study the external environment
+[87]   According to the textbook, the five competitive forces included in the five-forces model
+Answer: the average rate of return for the firms in an industry
+[50]   According to the textbook, the o nly way to know if your product or service is what people want
+Answer: talking to them
+[97]   According to the textbook, the three different types of competitors a business will face are:
+Answer: direct, indirect, and future
+[158]  According to the textbook, the unique value provided by business angels is:
+Answer: they are willing to make relatively small investments
+[78]   According to the textbook, there are three categories of costs to consider when completing
+Answer: capital costs, one-time expenses, and provisions for ramp-up expenses
+[55]   According to the textbook, two of the most important fac tors to consider regarding
+Answer: the passion the sole entrepreneur or the management team has for the business idea and
+[86]   According to the textbook, which of the following statements is accurate regarding the
+Answer: Virtually all the studies have concluded that firm-specific factors are more important than
+[132]  According to the textbook, which of the following statements is inaccurate regarding the size
+Answer: There is no relationship between a founding team's size and its effectiveness.
+[76]   Advertising, commissions, download fees, licensing, and product sale are examples of
+Answer: revenue streams
+[30]   Aging of the population, the increasing diversity of the workplace, and the continual
+Answer: FALSE
+[35]   Alex has a number of casual acquaintances that he interacts with infrequently. The
+Answer: weak -tie
+[123]  Almost all firms partner with others to make their business models work.
+Answer: TRUE
+[146]  Although a board of directors has formal governance responsibilities, its most useful role is
+Answer: TRUE
+[154]  Amy Clark just opened a soup and salad restaurant near Golden Gate Park in San Francisco.
+Answer: prospecting
+[142]  Amy Phillips founded a cosmetics firm several years ago. Her firm has grown rapidly and is
+Answer: accountability panel
+[100]  Amy has just launched a firm in the sports drink industry. She has decided to complete a grid
+Answer: competitive analysis grid
+[147]  An advisory board can be established for general purposes or can be set up to address a
+Answer: TRUE
+[146]  An advisory board is a panel of experts who are asked by a firm's managers to provide
+Answer: TRUE
+[119]  An arrangement between two or more firms that establishes an exchange relationship but has
+Answer: joint venture
+[102]  An emerging industry is a new industry in which standard operating procedures have yet to
+Answer: TRUE
+[79]   An entity created by two or more firms pooling a portion of their resources to create a
+Answer: joint venture
+[40]   An example of a valuable library resource is IBISWorld, which is a(n) ________.
+Answer: database of industry -related information
+[43]   An idea bank is a physical or digital repository for storing ideas.
+Answer: TRUE
+[24]   An idea is a favorable set of circumstances that creates a need for a new product, service, or
+Answer: FALSE
+[25]   An idea is a thought, impression, or notion. It may or may not meet the criteria of an
+Answer: TRUE
+[160]  An important part of obtaining venture capital funding is going through ________, which
+Answer: due diligence
+[27]   An increased focus on health and wellness has resulted in a number of new business ideas
+Answer: social force
+[146]  An increasingly important approach for recruiting employees is via social media sites like
+Answer: TRUE
+[33]   An individual who identifies a business idea on his or her own is referred to as a(n)
+Answer: solo
+[25]   An opportunit y has four essential qualities. It is (1) rare, (2) attractive, (3) timely, and (4)
+Answer: TRUE
+[23]   An opportunity has the following four essential qualities ________.
+Answer: attractive; timely; durable; and anchored in a product, service, or business that creates or adds
+[140]  Andy Zackery just launched a firm in the sporting goods industry. On the day the company
+Answer: signaling
+[168]  Angel investors, private placement, venture capital, and initial public offerings are the most
+Answer: TRUE
+[169]  Approximately 80 percent of the 9,000 banks in the United States participate in the SBA
+Answer: FALSE
+[98]   Aquafina operates in the bottled water industry. The companies that offer identical or similar
+Answer: direct competitors
+[148]  Are more firms started by individuals or founding teams? What are the advantages to
+Answer: Studies show that more than one individual starts 50 to 70 percent of all new firms. It is
+[161]  As part of drumming up support for an IPO, the investment bank typically takes the top
+Answer: road show
+[154]  Bill and Megan Tempelton are planning to open a smoothie restaurant near a large soccer
+Answer: friends and family
+[167]  Bootstrapping is the use of creativity, ingenuity, and any means possible to obtain resources
+Answer: TRUE
+[23]   Brad Johnson is starting an upscale men's clothing store in a mall near Seattle. He wants to
+Answer: window of opportunity
+[79]   Brad Jones is in the process of opening an electronics supply company and is working on the
+Answer: channels
+[41]   Brainstorming is used to generate a number of ideas quickly.
+Answer: TRUE
+[41]   Brainstorming sessions are designed to move slowly, so ideas can be presented and
+Answer: FALSE
+[65]   Brandon Jones has crafted a business model for his firm that is based on an existing plan or
+Answer: standard
+[127]  Briefly describe the four main components of a business model. Identify the subcomponents
+Answer: The four main components of a business model are as follows:
+[83]   Briefly describe the four main components of the Barringer/Ireland Business Model
+Answer: The four main components of a business model are as follows:
+[61]   Briefly describe the purpose of the First Screen and how it’s used.
+Answer: The First Screen is a template for completing a feasibility analysis. It is called First
+[101]  Business trends include economic trends, social trends, technological advances, and political
+Answer: FALSE
+[123]  By studying a product's value chain, an organization can identify ways to create addit ional
+Answer: TRUE
+[29]   Casey Griggs is a very capable computer engineer. Recently, he noticed a problem that
+Answer: serendipitous
+[106]  Catherine Smith has just finished writing a business plan for a startup in the medical produc ts
+Answer: business model
+[46]   Census Bureau data, analyst forecasts, and other pertinent information gleaned through libr ary
+Answer: FALSE
+[29]   Clothing boutiques and specialty shops often start because there is a need for a particular
+Answer: finding a gap in the marketplace
+[125]  Companies ultimately try to combine their core competencies and strategic asset s to create a
+Answer: TRUE
+[50]   Conner Brandshaw is investigating the feasibility of a new type of electronic game targeting
+Answer: Spend several days in electronic games arcades and stores to observe the types of games
+[147]  Consultants fall into two categories: paid consultants and consultants who are made available
+Answer: TRUE
+[80]   Core strategy describes what causes consumers to pick one company's products over another.
+Answer: FALSE
+[43]   Creativity and innovation are almost identical concepts.
+Answer: FALSE
+[169]  Crowdfunding is a financial transaction whereby a business sells its accounts receivable to a
+Answer: FALSE
+[79]   Cynthia Hamilton is launching a chain of smoothie restaurants. Among Cynthia's key
+Answer: suppliers
+[44]   Cynthia Jones recently surveyed 200 of her classmates to get a sense of the demand for a new
+Answer: primary
+[31]   D escribe the three separate ways that entrepreneurs identify new business, product, and
+Answer: The three ways that entrepreneurs identify new business, product, and service
+[162]  Debt financing involves:
+Answer: getting a loan or raising venture capital
+[167]  Debt financing means exchanging partial ownership in a firm in exchange for cash.
+Answer: FALSE
+[42]   Describe how brainstorming can help facilitate the generation of ideas, and outline the four
+Answer: Brainstorming is a technique that is used to generate a number of ideas quickly. Among
+[42]   Describe how library and Internet research can be used to generate new business ideas.
+Answer: Library and Internet research are important tools for g enerating business ideas. A
+[82]   Describe the Barringer/Ireland Business Model Template and discuss its purpose.
+Answer: The Barringer/Ireland Business Model Template is a visual template that  lays out the
+[25]   Describe the difference between an idea and an opportunity. Why is the distinction
+Answer: An opportunity is a favorable set of circumstances that creates a need for a new
+[39]   Describe the difference between strong -tie and weak -tie relationships. Is it more likely that
+Answer: Strong -tie relationships are characterized by frequent interaction and form betwe en
+[46]   Describe the purpose of feasibility analysis. When  should a feasibility analysis be conducted
+Answer: Feasibility analysis is the process of determining if a business idea is viable. As a
+[54]   Describe the purpose of industry/target market feasibility analysis, and identify the two primary
+Answer: Industry/market feasibility analysis is an assessment of the overall appeal of the industry
+[148]  Describe the term "liability of newness" and suggest several ways that a new venture can
+Answer: The term "liability of newness" refers to the fact that companies often falter because
+[126]  Describe the two potential fatal flaws of business models.
+Answer: Two fatal flaws can render a business model untenable from the beginning: a complete
+[51]   Describe what a concept statement is, and what it should include.
+Answer: A concept statement is a preliminary description of a business. It should include:
+[105]  Discuss the nontraditional barriers to entry identified in the chapter. Why is it important that
+Answer: The nontraditional barriers to entry, which are particularly suitable for entrepreneurial
+[68]   Disruptive business models are impactful enough that they disrupt or change the way
+Answer: TRUE
+[47]   Does it make sense? Is it reasonable? Is it something consumers will get excited about? Does
+Answer: product/service
+[85]   Each quarter, Cindy Anderson, who owns a chain of card and gift shops, does a detailed
+Answer: competitor analysis
+[30]   Economic factors, social factors, technological advances, and political action and regulatory
+Answer: TRUE
+[26]   Economic for ces impact the opportunities available to entrepreneurs. Which of the following
+Answer: Interest rates, consumer spending patterns, and level of disposable income
+[84]   Element Bars, the company profiled in the opening feature for Chapter 5, has a unique
+Answer: a low-cost energy bar company that makes energy bars more accessible to people in all
+[155]  Equity financing (or funding) means:
+Answer: exchanging partial ownership in a firm, usually in the form of stock, for funding
+[155]  Equity investors typically have a ________ investment horizon.
+Answer: 3 to 5 year
+[73]   Erin Hill is working on the box in the Barringer/Ireland Business Model Template that
+Answer: business/industry
+[38]   Evaluation is the stage of the creative process during which  the idea is put into its final form.
+Answer: FALSE
+[46]   Feasibility analysis is the process of determining if a business idea is viable.
+Answer: FALSE
+[116]  Firms that have a ________ strategy strive to have the lowest costs in the industry, relative t o
+Answer: cost leadership, differentiation
+[103]  Firms that pursue a global strategy use the same basic approach in all foreign markets.
+Answer: TRUE
+[96]   Firms that pursue a(n) ________ strategy compete for market share on a country-by-country
+Answer: multidomestic
+[61]   First Screen is a template for completing industry analysis
+Answer: FALSE
+[41]   Focus groups typically involve a group of people who are unfamiliar with a topic and are
+Answer: FALSE
+[60]   For financial feasibility analysis, a very detailed and comprehensive financial analysis is
+Answer: FALSE
+[152]  For startup firms, some products are under development for years before they generate
+Answer: personnel costs
+[152]  For startup firms, the cost of buying real estate, building facilities, and purchasing equipment
+Answer: capital investments
+[124]  Fortunately, if three of the four components of a firm's business model are in place, the firm
+Answer: FALSE
+[49]   Foundersuite, Quirky and Unassumer are Web sites that provide access to  ________.
+Answer: feedback on business ideas
+[145]  Founding teams that have worked together before, as opposed to teams that are working
+Answer: TRUE
+[115]  From a broad perspective, firms choose one of two generic strategies to position themselves
+Answer: cost leadership and differentiation
+[125]  Fulfillment and support describes the way a firm's product or service "goes to market" or
+Answer: TRUE
+[122]  Fulfillment and support describes:
+Answer: the way a firm's product or service "goes to market" or how it reaches its customers
+[122]  Gary Smith just launched a firm in the sports drink industry. He has decided to focus his
+Answer: target market
+[26]   GasBuddy and GasPriceWatch.com are companies started to help consumers save money on
+Answer: Social forces
+[67]   Google and its AdWords program is an example of a ________ disruptive business model.
+Answer: new-market
+[62]   Her Campus Media, the focus of the opening feature of Chapter 4, features a vibrant online
+Answer: the functionality and vibrancy of the company's Web site
+[169]  Historically, commercial banks have been viewed as an excellent source of financing for
+Answer: FALSE
+[162]  Historically, commercial banks:
+Answer: have been a good source of funds for service firm startups but not for manufacturing firm
+[124]  Historically, it has been difficult for a new venture to use a differentiation strat egy.
+Answer: FALSE
+[170]  Historically, the vast majority of SBIR Phase 1 proposals are approved.
+Answer: FALSE
+[145]  Homogeneous teams are diverse in terms of their abilities and experiences.
+Answer: FALSE
+[27]   Hulu.com allows people to watch television shows and movies on the Internet. Hulu.com's
+Answer: technological advances
+[104]  Identify the five competitive forces that determine industry profitably. Explain the purpose of
+Answer: The five competitive forces that determine industry profitability are the threat of
+[28]   If a new firm was launched to help bu sinesses comply with The Affordable Care Act, that
+Answer: changes in technological forces
+[136]  If a new venture organizes as a corporation, it is legally required to have a(n) ________,
+Answer: accountability panel
+[90]   If a startup pioneers an industry or a new concept within an industry, the name recognition
+Answer: first-mover advantage
+[102]  If the buyers are concentrated and they buy from a large number of suppliers, then the
+Answer: TRUE
+[29]   In 2000, Tish Cirovolo realized that there were no guitars on the market made specifically
+Answer: finding a gap in the marketplace
+[159]  In 2010, venture capital firms funded ________ deals .
+Answer: 3,276
+[121]  In a business model context, the three components of a firm's customer interface are target
+Answer: pricing structure
+[118]  In a business model context, the three components of a firm's partnership network are:
+Answer: suppliers, partners, and other key relationships
+[88]   In general, industries are more attractive when:
+Answer: the threat of each of the five forces is high
+[102]  In most industries, the major determinant of industry profitability is the level of competition
+Answer: TRUE
+[63]   In regard to business models, which of the following statements is incorrect?
+Answer: There is a standard business model that most firms follow.
+[107]  In regard to business models, which of the following statements is incorrect?
+Answer: There is a standard business model that most firms follow.
+[58]   In regard to managemen t prowess, two of the most important factors in this area are the
+Answer: TRUE
+[160]  In regard to the stages (or rounds) of venture capital funding, the stage of funding that occurs
+Answer: seed funding
+[151]  In startup firms, inventory must be purchased, employees must be trained and paid, and
+Answer: cash flow challenges
+[70]   In the Barringer/Ireland Business Model Template, ________ describes how the firm plans to
+Answer: value proposition
+[74]   In the Barringer/Ireland Business Model Template, a(n) ________ is a specific factor or
+Answer: core competency
+[75]   In the Barringer/Ireland Business Model Template, key assets can be ________.
+Answer: temporary, permanent, fixed, and variable
+[108]  In the WebHouse example included in Chapter 6, WebHouse failed because:
+Answer: it couldn't motivate its suppliers or customers to participate at a sufficient sca le to support the
+[99]   In the beverage industry, soda, fruit juice, and sports drinks are ________ competitors of
+Answer: indirect
+[137]  In the context of boards of directors, a(n) ________ is a person who is also an officer of the
+Answer: inside director
+[138]  In the context of boards of directors, a(n) ________ is someone who is not employed by the
+Answer: outside director
+[99]   In the context of competitor analysis, ________ are companies that are not yet direct or
+Answer: approximate competitors
+[98]   In the context of competitor analysis, ________ offer close substitutes to the product sold by
+Answer: indirect competitors
+[98]   In the context of competitor analysis, businesses that offer identical or similar products are
+Answer: direct competitors
+[81]   In the financing/funding section of the Barringer/Ireland Business Model Template, there are
+Answer: TRUE
+[37]   In the five -stage creative process, the flash of recognition, or what is sometimes referred to
+Answer: elaboration
+[75]   In the terminology of the Barringer/Ireland Business Model Template, ________ assets are
+Answer: key
+[77]   In the terminology of the Barringer/Ireland Business Model Template, a firm's ________
+Answer: cost
+[81]   In the terminology of the Barringer/Ireland Business Model Template, a key asset is a
+Answer: FALSE
+[86]   In various studies, researchers have found that from ________ of the variation in firm
+Answer: 8 to 30 percent
+[38]   Incubation is the stage of the creative process during which an idea is subjected to scrutiny
+Answer: FAL SE
+[86]   Industries that sell products to seniors, such as the eyeglass industry and the hearing aid
+Answer: environmental trend
+[100]  Industry analysis is business research that focuses on the potential of an industry.
+Answer: TRUE
+[54]   Industry/target market feasibility is an assessment of the overall appeal of the industry and the
+Answer: TRUE
+[145]  It is generally believed that new ventures started by an individual have an advantage over
+Answer: FALSE
+[68]   It is important to understand that there are several perfect business models.
+Answer: FALSE
+[38]   It is more like ly that an entrepreneur will get a new business idea through a strong -tie than a
+Answer: FALSE
+[138]  James Williams is the Chief Operating Officer of a startup in the health food industry. He is
+Answer: inside director
+[70]   Jamie Finch is crafting the business model for her fashion design firm. She just completed
+Answer: core strategy
+[115]  Jared King is starting a firm in the electronic games industry. The firm will produce games
+Answer: cost leadership
+[134]  Jason Andersen just finished writing a business plan for a new type of office supply store.
+Answer: skills profile
+[153]  Jason Graham's startup, which is in the electronics industry, was launched on January 1,
+Answer: sweat equity
+[112]  Jeff Mommer is starting an environmentally friendly lawn and garden service. One thing that
+Answer: core strategy
+[77]   Jenna Franklin is completing the portion of the Barringer/Ireland Business Model Template
+Answer: overhead
+[45]   Jennifer Burroughs is thinking about starting a firm in the upscale women’s fashion industry. To
+Answer: secondary
+[128]  Jenny Templeton is preparing to launch a home security firm. The team of people that will
+Answer: new venture team
+[84]   Jeremy Banks recently started a new firm in the financial services industry. Prior to starting
+Answer: industry analysis
+[24]   Jessica Smith is thinking about starting a chain of fitness centers for young adults ages 18 -30.
+Answer: Determine whether opening a fitness center for young adults ages 18 -30 is timely.
+[91]   John Petersen is thinking about starting a firm in the specialty chemical industry. In the
+Answer: bargaining power of suppliers
+[73]   Kaitlyn Harris is opening up a women's fashion boutique that will focus on professional
+Answer: target
+[136]  Kate Harrison is in the process of launching an educational services firm. She plans to
+Answer: board of directors
+[97]   Katherine Chapman recently launched a firm in the clothing industry, targeting teens ages
+Answer: global
+[138]  Keith Barnes is a general partner in a venture capital firm that just funded South Florida
+Answer: inside director
+[32]   Kelly Pryor, who has launched several successful entrepreneurial firms, seems to have a
+Answer: entrepreneurial alertness
+[115]  Kendra Johnson is starting a firm in the shoe industry. Her shoes will be very high quality
+Answer: differentiation
+[151]  Kimberly Jones is the founder of a company in the medical equipment industry. Kimberly's
+Answer: burn rate
+[44]   LuminAid , the company profiled in the opening feature of Chapter 3, was started to produce
+Answer: LuminAid did an exemplary job validating its business idea, and its solar pillow is now
+[36]   Macy is a very creative person. Often, when trying to generate a novel or useful idea, she
+Answer: incubation
+[30]   Many new businesses are successful by taking advantage of fads.
+Answer: FALSE
+[74]   Mark White is the founder of a firm that builds iPhone apps. Mark is very technically savvy,
+Answer: core competency
+[116]  Match the business model component with its explanation:
+Answer: strategic resources/how a firm acquires and uses its resources
+[141]  Melissa Jones just launched a firm in the wireless communications industry. Shortly after the
+Answer: signaling
+[53]   Mintel, IBISWorld, and Bizminer are datab ases most likely to be used during the ________
+Answer: industry/target market
+[147]  More people are willing to serve on a company's board of directors than board of advisors.
+Answer: FALSE
+[147]  Most boards of advisers have between 3 and 5 members.
+Answer: FALSE
+[168]  Most business angels remain fairly anonymous and are matched up with entrepreneurs
+Answer: TRUE
+[35]   Most of Sarah's ideas come from interacting with coworkers, friends, her spouse, her par ents,
+Answer: strong -tie
+[71]   Nathan Green is starting a firm in the organic produce industry. Nathan has developed a
+Answer: mission
+[134]  Ned Kite is a four time business owner. One thing that has served Ned well throughout his
+Answer: networker
+[146]  Networking is building and maintaining relationships with people whose interests are similar
+Answer: TRUE
+[85]   Once a firm decides to enter an industry and chooses a market in which to compete, it must
+Answer: competitor analysis
+[160]  Once a venture capitalist makes an investment in a firm, subsequent investments are made in
+Answer: follow-on funding
+[94]   Opportunities for leadership, niche, harvest and divestment are associated with ________
+Answer: declining
+[37]   Opportunity recognition may be an innate skill or cognitive process.
+Answer: TRUE
+[57]   Organizational feasibility analysis is conducted to determine whether a proposed business
+Answer: TRUE
+[120]  Organizations (typically nonprofit) that are formed by firms in the same industry to collect
+Answer: trade associations
+[152]  Peter Simmons owns an electronic games company. Although Peter's game designers and
+Answer: lengthy product development cycles
+[49]   PickFu and Ubou nce are Web sites that provide access to ________.
+Answer: A/B split testing services
+[46]   Primary research probes data that is al ready collected.
+Answer: FALSE
+[145]  Prior entrepreneurial experience, relevant industry experience, and networking are attributes
+Answer: TRUE
+[164]  Prosper is the best known:
+Answer: peer-to-peer lending network
+[51]   Quirky is a Web site that allows you to submit product ideas to a community that vets and
+Answer: TRUE
+[145]  Relevant industry experience is a poor predictor of future entrepreneurial performance.
+Answer: FALSE
+[147]  SCORE is a for-profit organization that provides consulting services to small businesses.
+Answer: FALSE
+[28]   SafetyWeb is a Web -based service that helps parents protect their children's online
+Answer: Solving a problem
+[78]   Sarah Green, who plans to open a garden and lawn business, is working on the portion of the
+Answer: product/or service production
+[129]  Savanna Combs opened a clothing boutique two years ago. Unfortunately, the boutique failed
+Answer: liability of newness
+[128]  Scripped, the company profiled in the opening feature for Chapter 9, offers Web-based
+Answer: Its founder is its only employee.
+[37]   Several studies have shown that prior experience in an industry helps entrepreneurs
+Answer: TRUE
+[89]   Shelly Brunner owns a sports themed restaurant which is located in an upscale business
+Answer: government and legal barriers
+[96]   Shelly James recently launched a firm in the fruit drink industry, and has already exported
+Answer: contemporary
+[146]  Similar to a board of directors, an advisory board possesses legal responsibility for the firm.
+Answer: FALSE
+[89]   Some industries, like the athletic shoe industry, are dominated by a small number of firms
+Answer: product differentiation
+[67]   Southwest Airlines is an example of a ________ disruptive business model.
+Answer: low-end
+[68]   Standard business models depict existing plans or recipes firms can use to determine how
+Answer: TRUE
+[113]  Steven Tanner is in the process of putting together the business model for his startup and is
+Answer: core strategy
+[125]  Strategic assets are anything rare and valuable that a firm owns.
+Answer: TRUE
+[106]  Stroome, the focus on the opening feature for Chapter 6, has developed a new Web-based
+Answer: a "freemium" pricing model and white labeling its site
+[145]  Studies show that more than one individual starts 80 to 90 percent of all new firms.
+Answer: FALSE
+[91]   Supplier concentration, switching costs, attractiveness of substitutes, and threat of forward
+Answer: threat of substitutes
+[116]  Susan Spector is in the process of putting together the business model for her startup and is
+Answer: strategic resources
+[45]   Talking to industry experts, obtaining feedback from prospective customers, and administering
+Answer: primary
+[69]   The Barringer/Ireland Business Model Canvas consists of ________ major category(ies) and
+Answer: 4; 12
+[68]   The Barringer/Ireland Business Model Template has five major categories and 14 individua l
+Answer: FALSE
+[75]   The Financials section of the Barringer/Ireland Business Model Template consists  of three
+Answer: revenue streams, cost structure, and financing/funding
+[60]   The First Screen feasibility analysis te mplate included in Chapter 3 is called “First Screen”
+Answer: feasibility analysis is an entrepreneur’s initial or first pass at determining the feasibility of a
+[157]  The Partnering for Success feature in Chapter 10 focuses on TechStars and Y Combinator: A
+Answer: Boulder, CO, New York City
+[56]   The Partnering for Success feature in Chapter 3 focuses on the task of finding the right
+Answer: Pick a partner that is similar rather than different from you in terms of skills, abilities, and
+[63]   The Partnering for Success feature in Chapter 4 focused on Web-based platforms, including
+Answer: freelancers
+[87]   The Partnering for Success feature in Chapter 5 focuses on three things that are important for
+Answer: trade associations, trade shows, and trade journals
+[121]  The Partnering for Success feature in Chapter 6 focuses on 99designs, an online company
+Answer: freelance designers
+[144]  The Partnering for Success feature in Chapter 9 focuses on iConclude, a company that set up
+Answer: the main purpose of a customer advisory board is to assess customer satisfaction
+[74]   The Resources section of the Barringer/Ireland Business Model Template consists of the
+Answer: core competency; key assets
+[169]  The SBIR and STTR programs are two important sources of early stage funds for technology
+Answer: TRUE
+[165]  The SBIR is a ________, meaning that firms that qualify have the potential to receive more
+Answer: three-phase program
+[28]   The Savvy Entrepreneurial Firm feature in Chapter 2 focuses on a technique through which
+Answer: social media
+[53]   The Savvy Entrepreneurial Firm feature in Chapter 3 focuses on Bill Gross, and how a
+Answer: observing how customers acted when buying their product
+[62]   The Savvy Entrepreneurial Firm feature in Chapter 4 focuses on the ways in which Quirky
+Answer: it has raised over $91 million and has over 550,000 people in its network
+[99]   The Savvy Entrepreneurial Firm feature in Chapter 5 focuses on three firms that are doing
+Answer: they create meaningful value for customers at a fair price and they have differentiated
+[107]  The Savvy Entrepreneurial Firm feature in Chapter 6 focuses on three business model
+Answer: rewarding shoppers by simply walking into a retail store
+[135]  The Savvy Entrepreneurial Firm feature in Chapter 9 focuses on how business founders
+Answer: hiring consultants from a major consulting firm, like Bain & Company or McKinsey &
+[130]  The What Went Wrong feature in Chapter 9 focuses on Deever, a 2008 startup that helped
+Answer: it lacked a cofounder who loved the business side of running a startup
+[56]   The What Went Wrong? Feature in Chapter 3 focuses on Standout Jobs. Although the
+Answer: First, the company’s timing was bad; second, prior to launch,  the company’s management
+[166]  The What Went Wrong? feature in Chapter 10 focuses on GoCrossCampus, a company that
+Answer: Having five cofounders proved to be problematic.
+[95]   The What Went Wrong? feature in Chapter 5 focuses on Eclipse Aviation. What was Eclipse
+Answer: to create a new segment in the private jet industry called very light jets.
+[112]  The What Went Wrong? feature in Chapter 6 focuses on Joost, a company that launched in
+Answer: core strategy wasn't focused
+[31]   The What Wrong feature in Chapter 2 focuses on Everpix, a co mpany that enabled users to
+Answer: spent too much time and energy perfecting  their service at the expense of building a business
+[165]  The ________ is a competitive grant program that provides over $1 billion per year to small
+Answer: SBIR Program
+[108]  The ________ is the string of activities that moves a product from the raw material stage,
+Answer: value chain
+[32]   The ability to notice things without engaging in deliberate search is referred to as ________.
+Answer: entrepreneurial alertness
+[101]  The best industry to enter is an industry where the threat of each of Porter's five-forces is
+Answer: TRUE
+[147]  The fact that a corporation has a board of directors precludes it from having a board of
+Answer: FALSE
+[129]  The fact that companies often falter because the people who start the firms can't adjust quickly
+Answer: liability of newness
+[72]   The first box in the Barringer/Ireland Business Model Template is ________.
+Answer: business mission
+[161]  The first sale of stock by a firm to the public is referred to as a(n):
+Answer: original open offering
+[103]  The first step in a competitor analysis is to determine who the competition is.
+Answer: TRUE
+[101]  The five competitive forces model is a framework for understanding the structure of an
+Answer: TRUE
+[92]   The five industry types discussed in the book include:
+Answer: emerging, fragmented, mature, declining, and global
+[38]   The five stages of the creative process include preparation, incubation, insight, evaluation,
+Answer: TRUE
+[56]   The focus in organizational feasibility analysis is on ________.
+Answer: nonfinancial resources
+[57]   The focus in organizational feasibility analysis is on financial resources.
+Answer: FALSE
+[111]  The four components of a firm's business model are:
+Answer: core strategy, strategic resources, partnership network, and customer interface
+[124]  The four components of an effective business model include: core strategy, strategic
+Answer: TRUE
+[46]   The four forms of feasibility analysis include: product/service feasibility, industry/target marke t
+Answer: TRUE
+[69]   The four major categories in the Barringer/Ireland Business Model Template are ________.
+Answer: core strategy, resources, financials, and operations
+[80]   The four major categories in the Barringer/Ireland Business Model Template are: core
+Answer: TRUE
+[129]  The high failure rate among new ventures is due in part to the liability of newness, which
+Answer: the people who start the firms can't adjust quickly enough to their new roles and the firms
+[167]  The ideal candidate for a bank loan is a firm with a strong cash flow, low leverage, audited
+Answer: TRUE
+[27]   The increasing number of socia l networks on the Internet is attributed to a jump in the
+Answer: social
+[104]  The information that is gathered by a firm to learn about its competitors is referred to as
+Answer: FALSE
+[100]  The information that is gathered by a firm to learn about its competitors is referred to as:
+Answer: a viable assessment
+[166]  The main difference between the SBIR and the STTR programs is that the STTR program
+Answer: researchers working at universities or other research institutions
+[164]  The major advantage of leasing is that:
+Answer: it enables a company to acquire the use of assets with little or no down payment
+[60]   The mechanics for filling out a First Screen worksheet are complicated.
+Answer: FALSE
+[131]  The members of heterogeneous teams are:
+Answer: diverse in terms of their abilities and experiences
+[132]  The members of homogeneous teams are:
+Answer: similar in terms of their abilities and experiences
+[58]   The most important issues to consider in financial feasibility analysis are _____ ___.
+Answer: total startup cash needed, financial performance of similar businesses, and the overall
+[60]   The most important issues to consider in financial feasibility analysis are total startup cash
+Answer: TRUE
+[163]  The most notable SBA program available to small businesses is the:
+Answer: 7(A) Guaranty Program
+[119]  The network of companies that participate in the production of a product, from the
+Answer: supply chain
+[168]  The number of angel investors in the United States has decreased dramatically over the past
+Answer: FALSE
+[40]   The number one rule for a brainstorming session is ________.
+Answer: no criticism is allowed
+[106]  The opening feature in Chapter 6 focuses on Stroome, an exciting new Web-based service for
+Answer: a graduate communications class at the University of Southern California
+[78]   The operations quadrant in the Barringer/Ireland Business Model Template includes three
+Answer: product (or service) production, channels, and key partners
+[81]   The operations section of the Barringer/Ireland Business Model Template includes three
+Answer: TRUE
+[137]  The panel of individuals who are elected by a corporation's shareholders to oversee the
+Answer: panel of directors
+[168]  The percentage of the profits the venture capitalist gets is called the "carry."
+Answer: TRUE
+[88]   The price of prescription medicine is high, partly because when someone is sick there is no
+Answer: threat of substitutes
+[123]  The primary activities in a firm's value chain include: inbound logistics, operations,
+Answer: TRUE
+[103]  The primary opportunity available to firms in fragmented industries is consolidation. The
+Answer: TRUE
+[92]   The primary opportunity existing for startups in emerging industries is to:
+Answer: capture a first-mover advantage
+[93]   The primary opportunity existing for startups in fragmented industries is to:
+Answer: pursue a cost reduction strategy, which is accomplished through achieving lower costs than
+[124]  The process of adapting a company's core competencies to exploit new opportunities is
+Answer: TRUE
+[133]  The process of building and maintaining relationships with people whose interests are similar
+Answer: networking
+[81]   The resources section of the Barringer/Ireland Business Model Template includes three pa rts:
+Answer: FALSE
+[60]   The template for completing a feasibility analysis included in Appendix 3.1 of the book is called
+Answer: First Screen
+[51]   The temptation to show a concept statement to friends and family members sh ould be avoided
+Answer: TRUE
+[144]  The term "liability of newness" refers to the fact that companies often falter because the
+Answer: TRUE
+[25]   The term "window of opportunity" is a metaphor describing the time period in which a firm
+Answer: FALSE
+[23]   The term "window of opportunity," as discussed in Chapter 2, is a metaphor that describes the
+Answer: realistically enter a new market
+[107]  The term ________ refers to initiatives, such as Netflix in movie rentals and Zipcar in car
+Answer: business model innovation
+[156]  The three most common forms of equity funding are:
+Answer: initial public offerings, business angels, venture capitalists
+[151]  The three reasons startups need funding are:
+Answer: cash flow challenges, capital investments, and lengthy product development cycles
+[103]  The three types of competitors a business will face are direct competitors, indirect
+Answer: TRUE
+[30]   The three ways to identify an opportunity include observing trends, solving a problem, and
+Answer: TRUE
+[52]   The two components of industry/target market feasibility analysis are ________.
+Answer: industry attractiveness and target market attractiveness
+[47]   The two components of product/service feasibility analysis are ________ and ________.
+Answer: product/service desirability; product/service demand
+[51]   The two components to product/service feasibility analysis are product/service desirability and
+Answer: FALSE
+[64]   The two general categories of business models are ________ and ________.
+Answer: standard; disruptive
+[96]   The two most common strategies pursued by firms in global industries are the ________
+Answer: multidomestic, global
+[57]   The two primary areas to consider in organizational feasibility analysis are management
+Answer: TRUE
+[55]   The two primary issues to consider in organiz ational feasibility analysis are ________.
+Answer: management prowess and resource sufficiency
+[55]   The two primary issues to consider in organizational feasibility analysis are management
+Answer: resource sufficiency
+[101]  The two trends that are most important to focus on in an industry analysis are business trends
+Answer: TRUE
+[167]  The vast majority of founders contribute personal funds along with sweat equity to their
+Answer: TRUE
+[102]  There are four factors that determine the threat of new entrants: number and balance of
+Answer: FALSE
+[167]  There are three common sources of "personal" financing for a startup firm: personal funds,
+Answer: TRUE
+[166]  There are three reasons that most firms need to raise money during their early life: cash flow
+Answer: TRUE
+[162]  There are two major advantages of getting a loan versus investment capital:
+Answer: no ownership in the firm is surrendered and interest payments are tax deductible
+[67]   There are two types of disruptive business models — ________ and ________.
+Answer: new-market; low-end
+[123]  There is no standard business model that dictates how firms in a particular industry should
+Answer: TRUE
+[49]   Three commonly utilized methods for determining product/service demand are ________.
+Answer: talking face -to-face with potential customers; utilizing online tools, such as Google AdWords
+[41]   To make sure that its customers are satisfied and to  probe for new product ideas, Intuit
+Answer: day -in-the-life research
+[57]   To test resource sufficiency, a firm should list the ________ most critical non -financial
+Answer: 6 to 12
+[48]   Tracy Brady is in the process of developing an exciting new product in the smartphone
+Answer: concept
+[45]   Trade journals, industry -related publications, government statistics, and competitors’ Web sites
+Answer: secondary
+[111]  Two fatal flaws can render a business model untenable from the beginning. These are utterly
+Answer: a complete misread of the customer
+[110]  Two fatal flaws can render a business model untenable from the beginning. These are:
+Answer: a complete misread of the customer and utterly unsound economics
+[123]  Two fatal flaws can render a business model untenable from the beginning: a complete
+Answer: FALSE
+[66]   Tyler Smith founded a firm that has a subscription-based business model. Although Tyler has
+Answer: churn
+[167]  Typically, the seed money that gets a company off the ground comes from a commercial
+Answer: FALSE
+[81]   Value-driven businesses focus on minimizing costs wherever possible.
+Answer: FALSE
+[159]  Venture capital firms are ________ of money managers who raise money in "funds" to invest
+Answer: limited partnerships
+[169]  Venture capital involves getting a loan or selling corporate bonds.
+Answer: FALSE
+[168]  Venture capital is money that is invested by venture capital firms in startups and small
+Answer: TRUE
+[168]  Venture capitalists are individuals who invest their personal capital directly in startups.
+Answer: FALSE
+[101]  Virtually all studies have concluded that firm-specific factors are more important than
+Answer: TRUE
+[38]   Weak -tie relationships are characterized by infrequent interaction and ties between casual
+Answer: TRUE
+[83]   What are core competencies? Provide an example of the core competencies that are utiliz ed
+Answer: A core competency is a specific factor or capability that support's a firm's busi ness
+[149]  What is SCORE? What is its role in helping a firm fill out its new venture team?
+Answer: SCORE is a nonprofit organization that provides free consulting services to small
+[171]  What is a business angel? Describe the prototypical business angel. How much money do
+Answer: Business angels are individuals who invest their personal capital directly in startups.
+[64]   What is a business model? Why is it important? Provide an example to illustrate your answ er.
+Answer: A business model is a firm's plan or recipe for how it creates, delivers, and captures
+[149]  What is a skills profile and what is it used for?
+Answer: A skills profile is a chart that depicts the most important skills that are needed in a
+[127]  What is a strategic asset? Provide an example of a strategic asset that is utili zed by an
+Answer: Strategic assets are anything rare and valuable that a firm owns. They include pl ant and
+[171]  What is an elevator speech? How did it get its name?
+Answer: An elevator speech is a brief, carefully constructed statement that outlines the merits of
+[105]  What is an emerging industry? What is the primary opportunity available to entrepreneurial
+Answer: An emerging industry is a new industry in which standard operating procedures have
+[105]  What is competitive intelligence? What are some of the ways that a firm can ethically obtain
+Answer: The information that is gathered by a firm to learn about its competitors is referred to
+[104]  What is industry analysis? Why is it important for a new venture to complete a thorough
+Answer: Industry analysis is business research that focuses on the potential of an industry. An
+[126]  What is meant by the statement, "A firm's business model takes it beyond it s own
+Answer: Almost all firms partner with others to make their business models work. For exam ple,
+[170]  What is meant by the term "bootstrapping"? Provide several examples of the ways that
+Answer: Bootstrapping is the use of creativity, ingenuity, and any means possible to obtain
+[148]  What is the difference between a heterogeneous and a homogeneous founding team? Which
+Answer: Heterogeneous founding teams are diverse in terms of their abilities and experiences.
+[171]  What is the difference between equity funding and debt financing? What are the most
+Answer: Equity funding means exchanging partial ownership in a firm, usually in the form of
+[69]   What is the difference between standard business models and disruptive business models?
+Answer: Standard business models depict existing plans or recipes firms can use to determ ine
+[80]   When competing the basis for differentiation portion of the Barringer/Ireland Business
+Answer: FALSE
+[72]   When completing the basis of differentiation box in the Barringer/Ireland Business Model
+Answer: two to three points
+[165]  Which "phase" of the SBIR Program is intended to demonstrate the proposed innovation's
+Answer: Phase I
+[88]   Which of Porter's five forces is most closely associated with the concept "barrier to entry"?
+Answer: threat of new entrants
+[90]   Which of Porter's five forces is most directly influenced by the following factors: number
+Answer: rivalry among existing firms
+[48]   Which of the follo wing is an incorrect approach to administering a concept test?
+Answer: The best candidates to distribute a concept stateme nt to are family and friends.
+[113]  Which of the following are the primary elements of a startup's core strategy?
+Answer: core competencies, strategic assets, funding model
+[59]   Which of the following factors is a negative as it pertains to the financial feasibility of a
+Answer: Inability to forecast income and expenses with a reasonable degree of accuracy
+[59]   Which of the following factors is a positive as it pertains to the financial feasibility of a business
+Answer: High percentage of recurring revenue
+[66]   Which of the following firms has a peer-to-peer business model?
+Answer: Airbnb
+[67]   Which of the following firms introduced a disruptive business model?
+Answer: Salesforce.com
+[109]  Which of the following is a "primary" activity in the value chain?
+Answer: outbound logistics
+[110]  Which of the following is a "support" activity in the value chain?
+Answer: outbound logistics
+[57]   Which of the following is an example  of a resource that normally would not be evaluated as
+Answer: Financial resources
+[85]   Which of the following is an example of an industry-level factor as opposed to a firm-level
+Answer: a firm's products
+[24]   Which of the following is correct regarding oppo rtunities and ideas?
+Answer: It's important to discern whether a particular idea meets the criteria for an opportunity.
+[144]  Which of the following is incorrect regarding the typical role of consultants in business
+Answer: give expert advice
+[59]   Which of the following is incorrect regarding the “total startup cash needed” component of
+Answer: It’s not necessary to com plete an actual budget of startup expenses.
+[109]  Which of the following is not a "primary" activity in the value chain?
+Answer: technology development
+[47]   Which of the following is not a part of assessing the product/service feasibility of a business
+Answer: Analyzing industry attractiveness
+[155]  Which of the following is not a source of equity funding?
+Answer: venture capital
+[53]   Which of the following is not an attribute of an attractive industry?
+Answer: Is late rather than early in its life cycle
+[26]   Which of the following is not an example o f a social force?
+Answer: Increasing diversity of the workplace
+[112]  Which of the following is not one of the components of a firm's business model?
+Answer: business plan
+[45]   Which of the following is not one of the four areas of feasibility analysis discussed in the
+Answer: Societal feasibility
+[71]   Which of the following is not one of the four elements of the core strategy section of the
+Answer: Key assets
+[70]   Which of the following is not one of the four major categories in the Barringer/Ireland
+Answer: Channels
+[89]   Which of the following is not one of the major sources of barriers to entry?
+Answer: buyer group concentration
+[108]  Which of the following is not one of the purposes of a business model?
+Answer: serves as an ongoing extension of feasibility analysis
+[39]   Which of the following is not one of the rules for a formal brainstorming session?
+Answer: The session is used for decision making.
+[63]   Which of the following is the proper sequence for when a firm should develop a business
+Answer: Initial validation of the business idea, preparation of the business model, fleshing out the
+[48]   Which of the following items is typically not included in a concept statement?
+Answer: A description of how much money the new venture needs
+[133]  Which of the following qualities was not identified in the textbook as a preferred attribute of
+Answer: prior experience working in a government or university position
+[36]   Which of the following represents the correct order of the five stages of the creative process?
+Answer: Preparation, incubation, insight, evaluation, elaboration
+[156]  Which of the following set of characteristics places a startup in the strongest position to
+Answer: strong cash flow, high leverage, low-to-moderate growth, unproven management
+[158]  Which of the following statement is not correct regarding business angels?
+Answer: The number of angel investors has decreased dramatically over the past decade.
+[143]  Which of the following statements about advisory boards is incorrect?
+Answer: Similar to a board of directors, an advisory board has legal responsibility for the firm in
+[143]  Which of the following statements about advisory boards is incorrect?
+Answer: If a firm has a board of directors it is not permitted to have an advisory board.
+[65]   Which of the following statements about business models is incorrect?
+Answer: A firm's business model is confined to its own boundaries.
+[166]  Which of the following statements is incorrect about grant programs?
+Answer: Granting agencies are very visible and well-known, so it's normally not hard to find one.
+[33]   Which of the following statements is incorrect in regard to entrepreneurial alertness?
+Answer: The research  findings on entrepreneurial alertness are conclusive.
+[140]  Which of the following statements is incorrect regarding boards of directors?
+Answer: If a new venture organizes as a corporation, it is not legally required to have a board of
+[156]  Which of the following statements is incorrect regarding equity funding?
+Answer: Equity investors fund the majority of the plans they consider.
+[131]  Which of the following statements is incorrect regarding founding teams?
+Answer: Teams that are working together for the first time have an advantage over teams that have
+[114]  Which of the following statements is incorrect regarding the "core strategy" component of a
+Answer: The product a firm chooses has little impact on its core strategy and business model.
+[32]   Which of the following statements is incorrect regarding the personal characteristics of
+Answer: Several studies show that prior experience in an industry actually blinds an entrepreneur to
+[133]  Which of the following statements is not true regarding the attributes of the founder or
+Answer: Founders with experience in the same industry as their new ventures will typically have
+[131]  Which of the following statements is untrue regarding founding teams?
+Answer: Studies show that more than one individual starts 50 to 70 percent of all new firms.
+[154]  Which of the following was not identified in the textbook as a common (and sound)
+Answer: buy rather than lease equipment
+[91]   Which of the following was not identified in the textbook as a nontraditional barrier to entry?
+Answer: capital requirements
+[141]  Which of the following was not identified in the textbook as an attribute of an effective board
+Answer: homogeneous set of experiences and talents
+[141]  Which of the following was not identified in the textbook as an attribute of an effective board
+Answer: unknown in their field
+[130]  Which of the following was not identified in the textbook as an element of a new venture
+Answer: suppliers and vendors
+[76]   Which section of the Barringer/Ireland Business Model Template is the only section t hat
+Answer: Financials
+[170]  Why do most firms need funding? Provide a brief explanation of each reason.
+Answer: There are three reasons that most new firms need to raise money during their early life:
+[126]  Why is it important for a firm to have a well-thought-out business model?
+Answer: Having a well-thought-out and clearly articulated business model is important for t he
+[142]  William Woods recently launched a printing company. One thing William is thinking about
+Answer: advisory board
+[92]   Windspire is starting a firm in the small-scale wind-generated power industry. This industry
+Answer: emerging
+[117]  Zappo's competence in customer service, Apple's competence in designing consumer
+Answer: core competencies
+[58]   ____ ____ feasibility analysis is a quick financial assessment of the viability of a business idea.
+Answer: Financial
+[118]  ________ are anything rare and valuable that a firm owns.
+Answer: Strategic assets
+[158]  ________ are limited partnerships of money managers who raise money in "funds" to invest
+Answer: Venture capital firms
+[66]   ________ business models are ones that do not fit the profile of standard business models,
+Answer: Incomparable
+[64]   ________ business models depict existing plans or recipes firms can use to determine how
+Answer: Disruptive
+[77]   ________ costs are costs that remain the same despite the volume of goods or services
+Answer: Fixed; Variable
+[52]   ________ feasibility analysis is an assessment of the overall appeal of the industry and market
+Answer: Industry/target market
+[54]   ________ feasibility analysis is conducted to determine whether a proposed business has
+Answer: Organizational
+[46]   ________ feasibility is an assessment of the overall appeal of the product or service being
+Answer: Product/service
+[110]  ________ involves a firm's relationship with its suppliers and involves all the activities of
+Answer: Technology development
+[111]  ________ involves all the activities required to manufacture a product.
+Answer: Operations
+[39]   ________ is (are) used to generate a number of ideas quickly.
+Answer: Brai nstorming
+[163]  ________ is a financial transaction whereby a business sells its accounts receivable to a third
+Answer: Factoring
+[117]  ________ is the process of adapting a firm's core competencies to exploit new opportunities.
+Answer: Resource leverage
+[44]   ________ is the process of determining whether a business idea is viable.
+Answer: Feasibility analysis
+[36]   ________ is the process of generating a novel or useful idea.
+Answer: Creativity
+[65]   ________ refers to the number of subscribers that a subscription-based business loses each
+Answer: Stir
+[34]   ________ relationships are characterized by frequent interactions that form between
+Answer: Strong -tie
+[44]   ________ research is research that is collected by the person or persons completing the
+Answer: Primary, Secondary
+[120]  ________, a relatively new approach to partnering, takes place when a service provided
+Answer: Fulfilling
+[25]   attractive, (2)
+Answer: observing trends , solving a problem, and finding gaps in the marketplace
+[22]   iCracked, the company profiled in the opening feature of Chapter 2, was started by AJ
+Answer: repair iPhones inexpensively and conveniently
+[150]  inDinero, the company profiled in the opening feature for Chapter 10, is described by its
+Answer: In April 2010, the founders of inDinero applied to Y Combinator, an organization that
